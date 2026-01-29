@@ -12,3 +12,18 @@ C:\Users\USER\OneDrive - Universidad Estatal Amazónica\Escritorio\CPE1_IESS\Age
 C:\Users\USER\OneDrive - Universidad Estatal Amazónica\Escritorio\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.pdb
 C:\Users\USER\OneDrive - Universidad Estatal Amazónica\Escritorio\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.genruntimeconfig.cache
 C:\Users\USER\OneDrive - Universidad Estatal Amazónica\Escritorio\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\ref\AgendaTelefonicaIESS.dll
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\bin\Debug\net10.0\AgendaTelefonicaIESS.exe
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\bin\Debug\net10.0\AgendaTelefonicaIESS.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\bin\Debug\net10.0\AgendaTelefonicaIESS.runtimeconfig.json
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\bin\Debug\net10.0\AgendaTelefonicaIESS.dll
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\bin\Debug\net10.0\AgendaTelefonicaIESS.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.sourcelink.json
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.dll
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\refint\AgendaTelefonicaIESS.dll
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\AgendaTelefonicaIESS.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\PROYECTOS\CPE_ESTRUCTURA_DE_DATOS\CPE1_IESS\AgendaTelefonicaIESS\obj\Debug\net10.0\ref\AgendaTelefonicaIESS.dll
