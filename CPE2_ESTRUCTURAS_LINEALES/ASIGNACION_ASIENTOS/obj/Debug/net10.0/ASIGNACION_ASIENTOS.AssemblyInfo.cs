@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASIGNACION_ASIENTOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e059ed77d56ba888dcf4521ff51118ca9ccfeebe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6f42c102b2285be79ba61d4e781f56dc383634")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASIGNACION_ASIENTOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASIGNACION_ASIENTOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

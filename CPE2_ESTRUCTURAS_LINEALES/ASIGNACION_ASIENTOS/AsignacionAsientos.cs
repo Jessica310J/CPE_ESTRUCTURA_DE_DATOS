@@ -53,7 +53,7 @@ namespace GuiaPracticas02_EstructurasLineales
             Console.WriteLine(">>> INICIANDO ASIGNACIÓN DE ASIENTOS (TIKETS) <<<");
             
             Stopwatch tiempoEjecucion = new Stopwatch();
-            tiempoEjecucion.Start(); // Inicio análisis de tiempo
+            tiempoEjecucion.Start(); // Inicio análisis de tiempo  
 
             int asientoNumero = 1;
 
