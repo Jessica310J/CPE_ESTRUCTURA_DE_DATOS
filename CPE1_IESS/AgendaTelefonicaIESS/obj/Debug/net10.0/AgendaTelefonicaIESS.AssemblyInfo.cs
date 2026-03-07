@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaTelefonicaIESS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47134fdb6823a599298a47748436819a2dce1663")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baed38b4f7c5ab5e02d725b2b7942bc6df2390cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaTelefonicaIESS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaTelefonicaIESS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
