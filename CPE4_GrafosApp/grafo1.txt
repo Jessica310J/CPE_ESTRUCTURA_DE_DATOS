@@ -1,0 +1,15 @@
+# Grafo 1: Materias - Ing. Tecnologias de la Informacion UEA
+# Relaciones de afinidad entre materias
+# Formato: materia1,materia2,peso
+# DIRIGIDO: NO
+MatematicasII,Estadistica,3
+MatematicasII,FisicaII,4
+FisicaII,FundSistemasDigitales,3
+FundSistemasDigitales,InstalacionElectrica,2
+Estadistica,MetodologiaInvestigacion,2
+MetodologiaInvestigacion,EstructurasDatos,3
+EstructurasDatos,AdministracionSO,4
+AdministracionSO,FundSistemasDigitales,3
+ProgramacionOO,EstructurasDatos,5
+ProgramacionOO,AdministracionSO,3
+MatematicasII,ProgramacionOO,2

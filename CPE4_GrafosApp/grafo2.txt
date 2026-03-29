@@ -1,0 +1,16 @@
+# Grafo 2: Red de Amigos del Aula
+# Relaciones de amistad entre estudiantes
+# Formato: persona1,persona2,peso
+# DIRIGIDO: SI
+Miguel,Jessica,1
+Miguel,Carlos,1
+Jessica,Araceli,1
+Jessica,Bella,1
+Araceli,Lisseth,1
+Bella,Edwin,1
+Edwin,Carlos,1
+Carlos,David,1
+David,Jorge,1
+Jorge,Miguel,1
+Lisseth,Jessica,1
+Edwin,Jorge,1
