@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\PROYECTOS\\CPE_ESTRUCTURA_DE_DATOS\\CPE1_IESS\\AgendaTelefonicaIESS\\AgendaTelefonicaIESS.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\UNIVERSIDAD  JESSICA\\3.TERCER SEMESTRE\\2.ESTRUCTURAS DE DATOS\\CPE_ESTRUCTURA_DE_DATOS\\CPE1_IESS\\AgendaTelefonicaIESS\\AgendaTelefonicaIESS.csproj",
       "projectName": "AgendaTelefonicaIESS",
-      "projectPath": "C:\\Users\\USUARIO\\Documents\\PROYECTOS\\CPE_ESTRUCTURA_DE_DATOS\\CPE1_IESS\\AgendaTelefonicaIESS\\AgendaTelefonicaIESS.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Documents\\PROYECTOS\\CPE_ESTRUCTURA_DE_DATOS\\CPE1_IESS\\AgendaTelefonicaIESS\\obj\\",
+      "projectPath": "C:\\Users\\USER\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\UNIVERSIDAD  JESSICA\\3.TERCER SEMESTRE\\2.ESTRUCTURAS DE DATOS\\CPE_ESTRUCTURA_DE_DATOS\\CPE1_IESS\\AgendaTelefonicaIESS\\AgendaTelefonicaIESS.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\UNIVERSIDAD  JESSICA\\3.TERCER SEMESTRE\\2.ESTRUCTURAS DE DATOS\\CPE_ESTRUCTURA_DE_DATOS\\CPE1_IESS\\AgendaTelefonicaIESS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
